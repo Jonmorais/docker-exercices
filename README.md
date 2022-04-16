@@ -1,1 +1,1 @@
-# docker-exercices
+# Training docker
